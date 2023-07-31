@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shyamcode01/Wordpress.git/static/css/main.222a51df.css",
+    "main.js": "/Shyamcode01/Wordpress.git/static/js/main.29b54453.js",
+    "index.html": "/Shyamcode01/Wordpress.git/index.html",
+    "main.222a51df.css.map": "/Shyamcode01/Wordpress.git/static/css/main.222a51df.css.map",
+    "main.29b54453.js.map": "/Shyamcode01/Wordpress.git/static/js/main.29b54453.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222a51df.css",
+    "static/js/main.29b54453.js"
+  ]
+}
