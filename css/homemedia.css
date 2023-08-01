@@ -1,0 +1,194 @@
+@media(max-width:1012px){
+.header{
+    display: none;
+   
+}
+.btnmenu{
+    display: block;
+    font-size: 25px;
+}
+
+.menubar{
+    position:absolute;
+    top: 65px;
+    left: 0;
+    width: 50%;
+    height: 100vh;
+    background-color: rgb(218, 24, 24);
+    flex-direction: column;
+    padding: 10px;
+    opacity: 0;
+    transition: 0.5s ease-in-out;
+    z-index: 9999;
+    
+}
+.btnclous{
+    opacity: 1;
+     
+}
+.nav-list{
+    margin: 25px 5px;
+    border-left: 3px solid rgb(84, 84, 174);
+     
+}
+.nav-list a{
+    font-size: 25px;
+    color: white;
+    padding:0 10px;
+    transition: all 0.5s ease-out;
+}
+.nav-list a:hover{
+    background-color: rgb(72, 72, 212);
+    color: white;
+}
+
+.row1{
+    justify-content: center;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.frame{
+    width: 100%;
+    justify-content: center;
+}
+.frameimg{
+    width: 300px;
+}
+.formlogin{
+    margin: 10px auto;
+    width: 100%;
+}
+
+
+.main-artical{
+    margin: 10px 2px;
+    z-index: 1;
+}
+
+.main{
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+.acd{
+    left: 16%;
+}
+ 
+
+.main-img{
+    width: 99%;
+    height: 100%;
+    padding: 5px;
+    
+}
+
+.head1 {
+    width: 100%;
+    margin: 25px 0px;
+    padding: 0 5px;
+     
+     
+}
+.paragraf{
+    margin: 0;
+}
+.para1{
+    margin: 2px 15px;
+}
+
+.nav-menu{
+    left: 30%;
+     
+}
+.box-slid12{
+    width: 100%;
+    margin: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+.artica2{
+    width: 90%;
+    margin: 10px 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+
+.slider-box{
+    width: 100%;
+    margin: 25px 0;
+}
+
+
+
+
+
+.joint-title{
+    width: 100%;
+    text-align: center;
+
+}
+.motivational{
+    width: 100%;
+    overflow: hidden;
+}
+
+.container-2{
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 0;
+    margin: 0 5px;
+}
+.image1,.text1{
+    width: 100%;
+    text-align: center;
+}
+.bio-btn{
+    /* align-items: center; */
+    margin: 10px 0;
+}
+
+
+
+.card-event{
+    flex-wrap: wrap;
+justify-content: center;
+    text-align: center;
+}
+
+
+
+.abous-us{
+    flex-wrap: wrap;
+}
+
+
+.artical2{
+     
+    text-align: center;
+}
+.text2{
+    width: 100%;
+}
+.img-text{
+    justify-content: center;
+    align-items: center;
+}
+
+
+.artic1{
+    margin: 25px 0;
+}
+.box-content{
+    margin: 25px 5px;
+}
+
+}
